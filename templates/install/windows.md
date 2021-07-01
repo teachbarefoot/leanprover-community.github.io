@@ -82,7 +82,7 @@ This document describes using VS Code (for emacs, look at https://github.com/lea
 4. Click "install" (In old versions of VS Code, you might need to click "reload" afterwards)
 5. Setup the default shell:
   * If you're using `git bash`, press `ctrl-shift-p` to open the command palette, and type
-    `Select Default Shell`, then select `git bash` from the menu.
+    `Select Default Profile`, then select `git bash` from the menu.
   * If you're using `msys2`, press `ctrl-comma` again to open the settings, and add two settings:
   ```text
   "terminal.integrated.shell.windows": "C:\\msys64\\usr\\bin\\bash.exe",
